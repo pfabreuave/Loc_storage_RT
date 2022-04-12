@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Loc_storage_RT/static/css/main.871fdb7b.css",
+    "main.js": "/Loc_storage_RT/static/js/main.02de4e10.js",
+    "index.html": "/Loc_storage_RT/index.html",
+    "main.871fdb7b.css.map": "/Loc_storage_RT/static/css/main.871fdb7b.css.map",
+    "main.02de4e10.js.map": "/Loc_storage_RT/static/js/main.02de4e10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.871fdb7b.css",
+    "static/js/main.02de4e10.js"
+  ]
+}
