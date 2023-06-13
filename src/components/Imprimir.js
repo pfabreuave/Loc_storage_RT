@@ -15,7 +15,7 @@ export const Imprimir = ({teams,deleteTeam}) => {
                 {team.email}
             </td>
             <td>
-                {team.linkedin}                   
+                <a  href={'https://www.linkedin.com/in/' + team.linkedin} target='_blank' rel='noreferrer'>{team.linkedin}</a>                   
             </td>
             <td>
                  <a  href={'https://pfabreuave.github.io/API-Codewars-JS/?user=' + team.usercw} target='_blank' rel='noreferrer'>{team.usercw}</a>                    
